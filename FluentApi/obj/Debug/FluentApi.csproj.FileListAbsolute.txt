@@ -1,0 +1,15 @@
+C:\Users\chert\source\repos\FluentApi\FluentApi\bin\Debug\FluentApi.exe.config
+C:\Users\chert\source\repos\FluentApi\FluentApi\bin\Debug\FluentApi.exe
+C:\Users\chert\source\repos\FluentApi\FluentApi\bin\Debug\FluentApi.pdb
+C:\Users\chert\source\repos\FluentApi\FluentApi\bin\Debug\EntityFramework.dll
+C:\Users\chert\source\repos\FluentApi\FluentApi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chert\source\repos\FluentApi\FluentApi\bin\Debug\EntityFramework.xml
+C:\Users\chert\source\repos\FluentApi\FluentApi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chert\source\repos\FluentApi\FluentApi\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\chert\source\repos\FluentApi\FluentApi\obj\Debug\FluentApi.csprojAssemblyReference.cache
+C:\Users\chert\source\repos\FluentApi\FluentApi\obj\Debug\FluentApi.csproj.CoreCompileInputs.cache
+C:\Users\chert\source\repos\FluentApi\FluentApi\obj\Debug\FluentApi.csproj.CopyComplete
+C:\Users\chert\source\repos\FluentApi\FluentApi\obj\Debug\FluentApi.exe
+C:\Users\chert\source\repos\FluentApi\FluentApi\obj\Debug\FluentApi.pdb
+C:\Users\chert\source\repos\FluentApi\FluentApi\obj\Debug\FluentApi.Migrations.InitialCreate.resources
+C:\Users\chert\source\repos\FluentApi\FluentApi\obj\Debug\FluentApi.csproj.GenerateResource.cache
